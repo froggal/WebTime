@@ -1,6 +1,8 @@
+body {
+    font-family: 'Jua', sans-serif;
+}
 .NowTime {
     text-align: center;
-    font-family: 'Jua', sans-serif;
     font-size: 900%;
     margin-top: 20%;
 }

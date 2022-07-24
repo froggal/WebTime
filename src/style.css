@@ -9,10 +9,16 @@ body {
 
 .StopWatch h1 {
     margin-top: 7%;
+    font-size: 300%;
 }
 
-.StopWatch h2 {
-    display: flex;
+.StopWatch span {
+    font-size: 200%;
+}
+
+.StopWatch button {
+    font-size: 150%;
+    margin-left: 1%;
 }
 
 @media (prefers-color-scheme: light) {
